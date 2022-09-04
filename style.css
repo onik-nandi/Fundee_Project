@@ -856,7 +856,7 @@ img{
 /* mini footer st */
 /* main footer st */
 .main-footer{
-    background: url(/images/bg-05.jpg);
+    background: url(./images/bg-05.jpg);
     width: 100%;
     height: 520px;
 }
